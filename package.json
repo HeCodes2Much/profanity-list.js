@@ -1,6 +1,6 @@
 {
     "name": "profanity-list.js",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "A custom list and function for blocking bad words!",
     "main": "index.js",
     "scripts": {
@@ -12,6 +12,10 @@
         "profanity",
         "list"
     ],
+    "repository": {
+        "type": "git",
+        "url": "git+ssh://git@github.com/HeCodes2Much/profanity-list.js.git"
+    },
     "author": "HeCodes2Much",
     "license": "GPLv3",
     "dependencies": {
