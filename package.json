@@ -1,0 +1,20 @@
+{
+    "name": "profanity-list.js",
+    "version": "1.0.1",
+    "description": "A custom list and function for blocking bad words!",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "bad",
+        "words",
+        "profanity",
+        "list"
+    ],
+    "author": "HeCodes2Much",
+    "license": "GPLv3",
+    "dependencies": {
+        "profanity-list.js": "^1.0.1"
+    }
+}
